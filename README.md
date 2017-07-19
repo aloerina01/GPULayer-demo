@@ -1,2 +1,0 @@
-# GPULayer-demo
-GPUレイヤがたくさんつくられる例
